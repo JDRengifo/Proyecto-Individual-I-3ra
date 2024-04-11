@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import ReactSelect from 'react-select'
 import {useDispatch, useSelector} from 'react-redux'
 import { getCountries, postActivities } from "../../redux/actions";
 import validate from "../../utils/validar/Validar";

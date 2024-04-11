@@ -1,7 +1,4 @@
-import ReactPlayer from 'react-player'
 import { Link } from 'react-router-dom'
-import video_egipto from '../../../src/utils/video_egipto.mp4'
-import video_dubai from '../../../src/utils/video_dubai.mp4'
 import banderas from '../../../src/utils/banderas.png'
 import cubo8_1 from '../../../src/utils/cubo8_1.png'
 import cubo8_2_1 from '../../../src/utils/cubo8_2_1.png'

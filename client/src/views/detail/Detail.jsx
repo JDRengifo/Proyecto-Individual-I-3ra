@@ -1,10 +1,10 @@
 import React, { useEffect } from "react"
-import { useParams } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
+import { useParams } from "react-router-dom";
 import {Link} from 'react-router-dom'
+import DetailText from "../../components/detailText/DetailText";
 import { getById } from "../../redux/actions";
 import './detail.css'
-import DetailText from "../../components/detailText/DetailText";
 
 function Detail(){
   const {id} = useParams();
