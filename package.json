@@ -3,6 +3,7 @@
     "compose-function": "^3.0.3",
     "emoji-picker-react": "^4.9.2",
     "react-player": "^2.15.1",
-    "react-select": "^5.8.0"
+    "react-select": "^5.8.0",
+    "render": "^0.1.4"
   }
 }
