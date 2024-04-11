@@ -2,7 +2,7 @@ import React from "react";
 
 
 
-function Selectors({handleOrderContinents}) {
+function Selectors({handleOrderContinen}) {
    
     return(
         <div>
